@@ -1,0 +1,63 @@
+/** Styles for Dhawkins Advice **/                                          
+
+/**DHawkins */ 
+
+body {
+    background-color: lightgrey;
+    border : 5px inset navy;
+   width: 350px;
+}
+
+#pagetitle {
+  background-color:navy;
+  font-variant: small-caps;
+  color: white;
+  padding: 2px;
+  width: 346px;
+  text-align: center;
+}
+
+.dh-advice { 
+        background-color: lightcoral;                                                                             
+        color: teal;
+        text-decoration: none;                                                                                    
+        font-family:'Open Sans', sans-serif;                                                                      
+}                                                                                                                 
+
+.dh-box { 
+        width: 400px;                                                                                             
+        height: 400px;                                                                                            
+        margin: 50px auto auto auto;                                                                              
+        background-color: white;                                                                                  
+        padding: 50px;                                                                                            
+        border-radius: 8px;                                                                                       
+}                                                                                                                 
+
+.dh-advice a {  
+        font-size: 10px;                                                                                          
+        text-decoration: none;
+        color: teal;                                                                                              
+        font-family:'Open Sans', sans-serif;                                                                      
+        }                                                                                                         
+
+.dh-advice p {                                                                                                    
+        font-size: 10px;
+        }                              
+
+.dh-advice h1 { 
+        font-size: 15.5px;                                                                                        
+        }                                                                                                         
+
+.dh-advice h4 {
+        font-size: 22px;                                                                                          
+        color: teal;                                                                                              
+        font-weight: bold;
+        text-transform: uppercase;                                                                                
+        margin: 30px 20px 30px 70px;
+        }                            
+
+.dh-advice .advice p {                                                                             
+        font-size: 14px;
+        text-align: justify;                                                                                      
+        }                                                                                                         
+/**End of  Styles**/
